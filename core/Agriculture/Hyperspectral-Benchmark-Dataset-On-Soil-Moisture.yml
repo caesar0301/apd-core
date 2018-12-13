@@ -1,7 +1,7 @@
 ---
-title: Notre Dame Global Adaptation Index (ND-GAIN)
-homepage: https://gain.nd.edu/our-work/country-index/download-data/
-category: SocialSciences
+title: Hyperspectral benchmark dataset on soil moisture
+homepage: https://doi.org/10.5281/zenodo.1227837
+category: Agriculture
 description:
 version:
 keywords:
@@ -10,7 +10,7 @@ temporal:
 spatial:
 access_level:
 copyrights:
-accrual_periodicity:
+accrual_periodicity: 
 specification:
 data_quality: false
 data_dictionary:
