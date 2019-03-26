@@ -20,7 +20,7 @@ publisher: Oil and Gas Authority, UK
 organization: Oil and Gas Authority, UK
 issued_time: 2019-03-25
 sources:
-- name: [News] UK Releases 130 Terabytes of Oil and Gas Data
+- name: UK Releases 130 Terabytes of Oil and Gas Data
   access_url: https://www.spe.org/en/jpt/jpt-article-detail/?art=5282
 - name: UK National Data Repository
   access_url: https://ndr.ogauthority.co.uk/dp/controller/PLEASE_LOGIN_PAGE
